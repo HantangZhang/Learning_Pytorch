@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fc52089-5eb7-4950-ba37-f3597e8e24dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/other.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Learning_pytorch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learning_pytorch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_tensor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_pytorch/create_tensor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_pytorch/function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/init_weight.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_pytorch/init_weight.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modify_tensor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_pytorch/modify_tensor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_pytorch/network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/other.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_pytorch/other.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +50,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Learning_pytorch" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.test">
     <configuration name="modify_tensor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_pytorch" />
@@ -59,7 +69,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modify_tensor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning_pytorch/modify_tensor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +91,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/other.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning_pytorch/other.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,6 +139,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665991055493</updated>
       <workItem from="1665991056830" duration="9350000" />
+      <workItem from="1666233856975" duration="2433000" />
     </task>
     <servers />
   </component>
